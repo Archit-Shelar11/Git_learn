@@ -1,2 +1,2 @@
 # Git_learn
-Leanrig git now 
+Just started learning the version control system
